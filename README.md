@@ -2,3 +2,5 @@
 
 
 This project help to auto copy the uploaded object from source bucket to destiny bucket, it can be use as backup data or can be called Replication of one bucket.
+
+Project link https://medium.com/@atul_topno/aws-s3-bucket-replication-45a0cfe3c3e6
